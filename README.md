@@ -4,7 +4,7 @@
 Hi, I'm MasterMind. I do Fullstack Web Development. Currently Mastering CSS 💪. Quite good at Express with MongoDB for the Back-End.
 - 📫 Find me on Instagram and Discord. Or email me. Everything in My little bio [here!](https://www.memastermind.tk)
 
-Latest Project: https://aaditjpeg.ga 
+Latest Project: https://discordlists100.xyz 
 
 ![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=memastermind.visitor-badge)
 
