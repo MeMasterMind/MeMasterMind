@@ -29,3 +29,4 @@
 ![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=memastermind.visitor-badge)
 
 
+> https://noice.link/hmmm
