@@ -3,7 +3,7 @@
 
 <hr>
 
-- 🔭 I’m currently working on [Discord Lists](https://discordlists100.xyz)
+- 🔭 I’m currently working on [Brawl Emotes](https://brawlemotes.xyz)
 
 - 🌱 I’m currently learning **Vue, CSS and Web fundamentals**
 
